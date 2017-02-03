@@ -1,0 +1,118 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+.menu
+{
+    background-color: rgba(241, 160, 3,1);
+    height : 120px;
+}
+
+.menu ul:not(.sub-nav) /** Premier <ul> **/
+{
+    left : 220px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu ul li:not(.sub-nav-item) /** Premier <li> **/
+{
+    display: inline-block;
+    margin: 0 0;
+    font-family: monarch_font;
+    color: #ffffff;
+}
+
+aside.menu nav a.a-nav-item
+{
+  vertical-align: middle;
+  font-size: 25px;
+  padding: 45px 20px;
+  line-height: 120px;
+  background-color: rgba(241, 160, 3,1);
+  text-decoration: none;
+  color: #ffffff;
+  font-family: monarch_font;
+}
+
+
+@font-face
+{
+  font-family: 'monarch_font';
+  src: url('monarch_font.ttf') format('truetype');
+}
+
+#menu a:hover
+{
+
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(230, 121, 48, 1);
+}
+
+img#logo
+{
+    width: 120px;
+    height: 120px;
+    margin-left: 60px;
+    margin-right: 40px;
+    vertical-align: middle;
+    float: left ;
+}
+
+.nav-item
+{
+    float:left;
+    position: relative;
+    display: none;
+}
+
+.sub-nav
+{
+    left:0;
+    display: block;
+    position: absolute;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.sub-nav a
+{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    display: block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ul.sub-nav
+{
+    background-color: rgb(243, 186, 99);
+    border-top-color: rgba(50, 89, 109, 1);
+    border-top-width: 4px;
+    border-top-style: solid;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+li.nav-item:hover ul li
+{
+    display: block;
+}
+
+.menu ul li ul li
+{
+    display: none;
+    position: relative;
+}

@@ -1,0 +1,35 @@
+.main_wrapper img
+{
+    height: 120px;
+    width: 120px;
+    margin: 100px;
+}
+
+.main_wrapper p, .mainwrapper a
+{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    font-size: 18px;
+}
+
+.main_wrapper p
+{
+    margin: 0px 20px 10px 20px;
+    width: 280px;
+}
+
+a p
+{
+    color: white;
+    background-color: blue;
+    width: 120px;
+    margin: 100px;
+}
+
+a p:hover
+{
+    text-decoration: underline;
+    color: black;
+}
+
