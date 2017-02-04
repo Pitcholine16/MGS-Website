@@ -6,11 +6,13 @@
 
     <title>Title</title>
 
+    <?php require("Header.php"); ?>
+    <script src="css/jquery.min.js"></script>
+    <script src="css\bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="stylePlay.css" />
 
-    <script src="css/jquery.min.js"></script>
-    <script src="css\bootstrap.min.js"></script>
+
 
     <style>
     .carousel-inner > .item > img,
@@ -21,7 +23,7 @@
     </style>
 </head>
 
-<?php require("Header.php"); ?>
+
 
 <body>
 
