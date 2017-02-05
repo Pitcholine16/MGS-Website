@@ -9,6 +9,7 @@ body
 {
     background-color: rgba(241, 160, 3,1);
     height : 120px;
+    position: fixed;
 }
 
 .menu ul:not(.sub-nav) /** Premier <ul> **/
