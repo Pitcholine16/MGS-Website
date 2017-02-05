@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="/Site Web/css/bootstrap.min.css"/>
 </head>
 
-<?php require ("Header.php"); ?>
-
 <body>
     
 <div class="main_wrapper">
