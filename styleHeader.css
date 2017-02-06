@@ -4,7 +4,6 @@ body
     margin: 0;
 }
 
-
 .menu
 {
     background-color: rgba(241, 160, 3,1);
@@ -40,7 +39,6 @@ aside.menu nav a.a-nav-item
   color: #ffffff;
   font-family: monarch_font;
 }
-
 
 @font-face
 {
