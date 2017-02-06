@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8" />
     <title>MGS - Accueil</title>
-    <link rel="stylesheet" href="style_home.css" />
     <link rel="stylesheet" href="/Site Web/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="style_home.css" />
 </head>
 
 <body>
@@ -54,7 +54,7 @@
     <a href="#" class="vert">En savoir plus</a>
 
     <a href="#" class="violet">En savoir plus</a>
-    
+
 </div>
    
 </body>
