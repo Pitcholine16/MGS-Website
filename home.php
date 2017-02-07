@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style_home.css" />
 </head>
 
+<?php require ("Header.php"); ?>
+    
 <body>
     
 <div class="main_wrapper">
@@ -47,13 +49,13 @@
 
     Ou encore, la vidéo, la musique, l’écriture d’article...etc.</p>
 
-    <a href="#" class="rouge">En savoir plus</a>
+    <div class="rouge"><a href="#">En savoir plus</a></div>
 
-    <a href="#" class="bleu">En savoir plus</a>
+    <div class="bleu"><a href="#">En savoir plus</a></div>
 
-    <a href="#" class="vert">En savoir plus</a>
+    <div class="vert"><a href="#">En savoir plus</a></div>
 
-    <a href="#" class="violet">En savoir plus</a>
+    <div class="violet"><a href="#">En savoir plus</a></div>
 
 </div>
    

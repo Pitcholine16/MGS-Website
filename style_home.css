@@ -47,16 +47,27 @@
 
 .main_wrapper a
 {
-    display: inline-block;
-    width: 200px;
-    height: 44px;
-    margin: 20px 60px;
-    text-align: center;
     color: white;
     font-size: 24px;
     font-family: monarch_font;
     text-decoration: none;
-    padding-top: 11px;
+    vertical-align: text-bottom;
+}
+
+.main_wrapper a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+
+.main_wrapper div
+{
+    display: inline-block;
+    width: 200px;
+    height: 45px;
+    margin: 20px 60px;
+    line-height: 45px;
+    text-align: center;
 }
 
 .main_wrapper .rouge
