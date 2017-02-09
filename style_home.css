@@ -1,7 +1,14 @@
 @font-face
 {
     font-family: monarch_font;
-    src: url('monarch_font.ttf')
+    src: url('monarch_font.ttf');
+}
+
+.main_wrapper
+{
+    margin-left:auto;
+    margin-right:auto;
+    width: 1400px;
 }
 
 .main_wrapper img
@@ -25,7 +32,7 @@
 .main_wrapper h1
 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 20px;
     vertical-align: center;
     font-family: monarch_font;
     font-weight: normal;
@@ -70,22 +77,22 @@
     text-align: center;
 }
 
-.main_wrapper .rouge
+.rouge
 {
     background-color: rgb(231,76,60);
 }
 
-.main_wrapper .bleu
+.bleu
 {
     background-color: rgb(52,152,219);
 }
 
-.main_wrapper .vert
+.vert
 {
     background-color: rgb(46,204,118);
 }
 
-.main_wrapper .violet
+.violet
 {
     background-color: rgb(127,136,193);
 }
