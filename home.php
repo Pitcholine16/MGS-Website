@@ -13,7 +13,7 @@
     
 <div class="main_wrapper">
     
-    <h1>Qui sommes nous?</h1>
+    <h1 title="Des Zizis!">Qui sommes nous?</h1>
 
     <img src="images/sigle_com.png" alt="Sigle Communauté" />
 
@@ -49,13 +49,13 @@
 
     Ou encore, la vidéo, la musique, l’écriture d’article...etc.</p>
 
-    <div class="rouge"><a href="#">En savoir plus</a></div>
+    <div class="rouge"><a href="https://fr.wikipedia.org/wiki/U2">En savoir plus</a></div>
 
-    <div class="bleu"><a href="#">En savoir plus</a></div>
+    <div class="bleu"><a href="https://fr.wikipedia.org/wiki/Queen">En savoir plus</a></div>
 
-    <div class="vert"><a href="#">En savoir plus</a></div>
+    <div class="vert"><a href="https://fr.wikipedia.org/wiki/Jean-Jacques_Goldman">En savoir plus</a></div>
 
-    <div class="violet"><a href="#">En savoir plus</a></div>
+    <div class="violet"><a href="https://www.youtube.com/watch?v=vdLuk2Agamk">En savoir plus</a></div>
 
 </div>
    
