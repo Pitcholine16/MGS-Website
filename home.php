@@ -13,7 +13,7 @@
     
 <div class="main_wrapper">
     
-    <h1 title="Des Zizis!">Qui sommes nous?</h1>
+    <h1 title="Des BG!">Qui sommes nous?</h1>
 
     <img src="images/sigle_com.png" alt="Sigle Communauté" />
 
