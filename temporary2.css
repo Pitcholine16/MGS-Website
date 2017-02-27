@@ -1,0 +1,99 @@
+@font-face
+{
+    font-family: monarch_font;
+    src: url('monarch_font.ttf');
+}
+
+.main_wrapper
+{
+    margin-left:auto;
+    margin-right:auto;
+    width: 1350px;
+    padding: 40px;
+}
+
+.main_wrapper img
+{
+    height: 130px;
+    width: 130px;
+    margin: 70px 85px 0px 85px;
+}
+
+.main_wrapper p
+{
+    margin: 0px 30px 30px 30px;
+    width: 240px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: monarch_font;
+}
+
+.main_wrapper h1
+{
+    text-align: center;
+    margin-top: 20px;
+    vertical-align: center;
+    font-family: monarch_font;
+    font-weight: normal;
+    width: 1200px;
+    font-size: 44px;
+}
+
+.main_wrapper h2
+{
+    display: inline-block;
+    width: 240px;
+    margin: 30px 30px;
+    font-size: 26px;
+    text-align: center;
+    vertical-align: top;
+    font-family: monarch_font;
+    font-weight: normal;
+}
+
+.main_wrapper a
+{
+    color: white;
+    font-size: 24px;
+    font-family: monarch_font;
+    text-decoration: none;
+    vertical-align: text-bottom;
+}
+
+.main_wrapper a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+
+.main_wrapper div
+{
+    display: inline-block;
+    width: 190px;
+    height: 43px;
+    margin: 20px 55px;
+    line-height: 43px;
+    text-align: center;
+}
+
+.rouge
+{
+    background-color: rgb(231,76,60);
+}
+
+.bleu
+{
+    background-color: rgb(52,152,219);
+}
+
+.vert
+{
+    background-color: rgb(46,204,118);
+}
+
+.violet
+{
+    background-color: rgb(127,136,193);
+}
