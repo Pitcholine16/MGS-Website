@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="style_home.css" />
 </head>
 
-<?php require ("Header.php"); ?>
-    
 <body>
     
 <div class="main_wrapper">
